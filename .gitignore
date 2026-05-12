@@ -1,0 +1,8 @@
+checkpoint-*/
+*.safetensors
+*.pt
+*.bin
+*.pth
+backend/saved_model/model.safetensors
+backend/saved_model/optimizer.pt
+checkpoint-*/
